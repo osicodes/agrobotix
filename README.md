@@ -11,3 +11,10 @@
    |
 |  ![img7 (1)](https://github.com/user-attachments/assets/4616dbb6-9037-4576-9483-c2f1cd5facfa)
   |
+
+
+## d
+| Cat                | Dog                |
+|--------------------|--------------------|
+| ![](https://placekitten.com/200/200) | ![](https://placedog.net/200/200) |
+| ![](https://placekitten.com/201/201) | ![](https://placedog.net/201/201) |
