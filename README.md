@@ -1,8 +1,12 @@
 # agrobotix
-## results
+
+## Database
+[olive-leaf-image-dataset]([https://example.com](https://www.kaggle.com/datasets/habibulbasher01644/olive-leaf-image-dataset))
+
+## Results
 ![results](https://github.com/user-attachments/assets/90fd6183-2bac-4b32-89b3-35b89d827052)
 
-## classified images
+## Classified images
 |                    |                    |
 |--------------------|--------------------|
 | ![img1](https://github.com/user-attachments/assets/544233ee-9289-43aa-9756-64dac3434dc7) | ![img2](https://github.com/user-attachments/assets/bc1f4e52-0481-4af4-8a27-f67d92baedea) |
